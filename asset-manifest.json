@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e57544b.css",
-    "main.js": "/static/js/main.f0d23d3f.js",
+    "main.css": "/static/css/main.3935240c.css",
+    "main.js": "/static/js/main.5ea1143f.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/full-stack-developer.gif": "/static/media/full-stack-developer.3d34a570ec7d3100bed7.gif",
     "static/media/project2.png": "/static/media/project2.68839cc482212b5dd098.png",
     "static/media/project4.png": "/static/media/project4.30d0411c4cefdc78e32e.png",
     "static/media/project1.png": "/static/media/project1.a51573b0c3d8b1984f20.png",
@@ -11,13 +10,14 @@
     "static/media/Rohit_Kumar Yadav_Resume.pdf": "/static/media/Rohit_Kumar Yadav_Resume.501058e60197f9452874.pdf",
     "static/media/rohitImage.png": "/static/media/rohitImage.99a150d865b8790c1daa.png",
     "static/media/project3.png": "/static/media/project3.73f5c759c6f7a492bae9.png",
+    "static/media/logo.gif": "/static/media/logo.5d96f5d87987c4532b29.gif",
     "index.html": "/index.html",
-    "main.1e57544b.css.map": "/static/css/main.1e57544b.css.map",
-    "main.f0d23d3f.js.map": "/static/js/main.f0d23d3f.js.map",
+    "main.3935240c.css.map": "/static/css/main.3935240c.css.map",
+    "main.5ea1143f.js.map": "/static/js/main.5ea1143f.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e57544b.css",
-    "static/js/main.f0d23d3f.js"
+    "static/css/main.3935240c.css",
+    "static/js/main.5ea1143f.js"
   ]
 }
